@@ -34,7 +34,7 @@ Construirás un algoritmo en pseudocódigo que simule un sistema para calcular e
 
 ## 2. Arreglos
 
-Con el propósito de que el usuario elija un producto a traves de un menú, se incorpora un arreglo con 20 productos, y además se incorpora un arreglo con 13 opciones de destinos de despacho
+Con el propósito de que el usuario elija un producto a traves de un menú, se incorpora un arreglo con 20 productos, y además se incorpora un arreglo con 13 destinos de despacho
 
 ![Image](./imagenes/DefinicionArreglos.png) 
 
@@ -120,7 +120,7 @@ En la siguiente imagen se muestran los datos resultantes
 
 ****
 
-## 6. Término de la ejecución
+## 7. Término de la ejecución
 
 Para terminar la ejecución del pseudocódigo tan solo se necesita ingresar un 0 (cero) en el menú de productos
 
